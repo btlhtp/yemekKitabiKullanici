@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "548152768836",
+    "firebase_url": "https://lezzet-kitap-default-rtdb.firebaseio.com",
+    "project_id": "lezzet-kitap",
+    "storage_bucket": "lezzet-kitap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548152768836:android:ad5c6d9a58bb27d85c7f11",
+        "android_client_info": {
+          "package_name": "com.example.lezzetkitab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548152768836-0kq51jnbh4d74ik1gl8ciuf1bfdbhbpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lezzetkitab",
+            "certificate_hash": "e36351c131a38dec3ef6756081e428043c20ee4f"
+          }
+        },
+        {
+          "client_id": "548152768836-b4iij6vi61cjcmd3odlmc3h8kfbav22d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSig4ff_BVQP3W9muuVk9A88GlY0e3TIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548152768836-b4iij6vi61cjcmd3odlmc3h8kfbav22d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548152768836:android:4a59c7f0774d68955c7f11",
+        "android_client_info": {
+          "package_name": "com.example.lezzetkitabkullanici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548152768836-b4iij6vi61cjcmd3odlmc3h8kfbav22d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSig4ff_BVQP3W9muuVk9A88GlY0e3TIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548152768836-b4iij6vi61cjcmd3odlmc3h8kfbav22d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548152768836:android:da68f9c4e026f4a55c7f11",
+        "android_client_info": {
+          "package_name": "com.example.lezzetkitapkullanici"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548152768836-n3qea8dg4q4n3h9fh8p587o0nl8pk0ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lezzetkitapkullanici",
+            "certificate_hash": "e36351c131a38dec3ef6756081e428043c20ee4f"
+          }
+        },
+        {
+          "client_id": "548152768836-b4iij6vi61cjcmd3odlmc3h8kfbav22d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSig4ff_BVQP3W9muuVk9A88GlY0e3TIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548152768836-b4iij6vi61cjcmd3odlmc3h8kfbav22d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
